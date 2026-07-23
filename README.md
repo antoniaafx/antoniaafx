@@ -90,10 +90,8 @@ Client site for a sports pub in Paphos, built mobile-first for tourists finding 
 ## 📊 A small window into the work
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=antoniaafx&show_icons=true&hide_border=true&bg_color=1b102b&title_color=f8fafc&text_color=d8b4fe&icon_color=8b5cf6&ring_color=8b5cf6" alt="Antonia's GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniaafx&layout=compact&hide_border=true&bg_color=1b102b&title_color=f8fafc&text_color=d8b4fe&icon_color=8b5cf6" alt="Antonia's most used languages" height="165" />
-
+<img src="https://github-stats-extended.vercel.app/api?username=antoniaafx&show_icons=true&hide_border=true&bg_color=1b102b&title_color=f8fafc&text_color=d8b4fe&icon_color=8b5cf6&ring_color=8b5cf6" alt="Antonia's GitHub statistics" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=antoniaafx&layout=compact&hide_border=true&bg_color=1b102b&title_color=f8fafc&text_color=d8b4fe&icon_color=8b5cf6" alt="Antonia's most used languages" height="165" />
 </div>
 
 ---
