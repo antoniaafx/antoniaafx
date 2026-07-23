@@ -106,8 +106,6 @@ Whether it's a research-backed redesign, a tricky interaction, or a product idea
 
 <a href="https://github.com/antoniaafx"><img src="https://img.shields.io/badge/GitHub-1b102b?style=for-the-badge&logo=github&logoColor=f8fafc" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/antonia-afx/"><img src="https://img.shields.io/badge/LinkedIn-1b102b?style=for-the-badge&logo=linkedin&logoColor=f0abfc" alt="LinkedIn" /></a>
-<a href="mailto:61620744+antoniaafx@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-1b102b?style=for-the-badge&logo=gmail&logoColor=f0abfc" alt="Email" /></a>
-
 <br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1b102b&height=100&section=footer" alt="" width="100%" />
