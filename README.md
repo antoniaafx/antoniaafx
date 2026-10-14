@@ -2,6 +2,7 @@
 
 I'm a **UX/UI Designer** who likes making the space between a good idea and a great experience feel smaller. I lead with research and wireframes, prototype in Figma until an interaction feels right.
 
+| About me | Details |
 | --- | --- |
 | 🔍 **Who I am** | A designer who thinks in flows and screens first — Figma is where my ideas start. |
 | 🎨 **What I design** | Web and app experiences: user research, wireframes, and interactive prototypes for real problems. |
