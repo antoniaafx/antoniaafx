@@ -33,9 +33,6 @@ I'm a **UX/UI Designer** who likes making the space between a good idea and a gr
 
 
 ## 💌 Let's connect
-
-Whether it's a research-backed redesign, a tricky interaction, or a product idea that needs both a wireframe and working code — I'd love to hear about it.
-
 <div align="center">
 
 <a href="https://github.com/antoniaafx"><img src="https://img.shields.io/badge/GitHub-1b102b?style=for-the-badge&logo=github&logoColor=f8fafc" alt="GitHub" /></a>
