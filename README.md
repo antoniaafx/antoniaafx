@@ -1,7 +1,8 @@
 ## 👋 Hello, I'm Antonia
 
-I'm a **UX/UI Designer** who likes making the space between a good idea and a great experience feel smaller. I lead with research and wireframes, prototype in Figma until an interaction feels right, then bring it closer to real, working code.
+I'm a **UX/UI Designer** who likes making the space between a good idea and a great experience feel smaller. I lead with research and wireframes, prototype in Figma until an interaction feels right.
 
+| --- | --- |
 | 🔍 **Who I am** | A designer who thinks in flows and screens first — Figma is where my ideas start. |
 | 🎨 **What I design** | Web and app experiences: user research, wireframes, and interactive prototypes for real problems. |
 | 💡 **What I'm curious about** | UX research methods, design systems, and the small interaction details that make a product feel calm. |
