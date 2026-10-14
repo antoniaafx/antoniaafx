@@ -38,7 +38,7 @@ I'm a **UX/UI Designer** who likes making the space between a good idea and a gr
 ####  Development
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs&perline=8" alt="HTML, CSS, JavaScript" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,&perline=8" alt="HTML, CSS, JavaScript" />
 </div>
 
 #### Tools
