@@ -8,12 +8,6 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Designing+clear%2C+human+interfaces;Researching+the+problem+before+the+pixel;Always+learning%2C+always+shipping" alt="Designing clear, human interfaces" />
 </a>
 
-<p>
-	<a href="https://github.com/antoniaafx?tab=followers"><img src="https://img.shields.io/github/followers/antoniaafx?label=Follow&style=flat-square&color=8b5cf6&labelColor=1b102b" alt="GitHub followers" /></a>
-	<a href="https://github.com/antoniaafx"><img src="https://img.shields.io/github/stars/antoniaafx?label=Stars&style=flat-square&color=f0abfc&labelColor=1b102b" alt="GitHub stars" /></a>
-	<img src="https://komarev.com/ghpvc/?username=antoniaafx&style=flat-square&color=8b5cf6&label=Profile+views" alt="Profile views" />
-</p>
-
 </div>
 
 ---
@@ -27,8 +21,6 @@ I'm a **UX/UI Designer** who likes making the space between a good idea and a gr
 | 🔍 **Who I am** | A designer who thinks in flows and screens first — Figma is where my ideas start. |
 | 🎨 **What I design** | Web and app experiences: user research, wireframes, and interactive prototypes for real problems. |
 | 💡 **What I'm curious about** | UX research methods, design systems, and the small interaction details that make a product feel calm. |
-| 📚 **Right now** | Completing the **Google UX Design Certificate**, and growing my front-end development skills so I can build the things I design. |
-
 ---
 
 ## 🎨 Skills & Tools
@@ -46,7 +38,7 @@ I'm a **UX/UI Designer** who likes making the space between a good idea and a gr
 ####  Development
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs&perline=8" alt="HTML, CSS, JavaScript" />
 </div>
 
 #### Tools
@@ -55,46 +47,6 @@ I'm a **UX/UI Designer** who likes making the space between a good idea and a gr
 	<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=8" alt="Figma, Git, GitHub, VS Code" />
 </div>
 
----
-
-## 🗂 A few things I've been building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏠 Shared Household Budget App**
-UX case study — designing an app and companion website that make splitting household expenses feel simple and fair. Currently in the research phase, building the user interview questionnaire.
-`Figma` `UX Research` `Google UX Design Certificate`
-
-</td>
-<td width="50%" valign="top">
-
-**🍻 Keg & Barrel**
-Client site for a sports pub in Paphos, built mobile-first for tourists finding it through Google search, with WhatsApp booking built in.
-`Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-	<br />
-	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd3M3diaW00NDA4dmN4YWFpdTJpNnExczVrYjJsNmwwbWdsMHo0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cute cartoon cat working at a computer" width="180" />
-	<br />
-	<sub>a small coding companion while ideas take shape ✨</sub>
-</div>
-
----
-
-## 📊 A small window into the work
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=antoniaafx&show_icons=true&hide_border=true&bg_color=1b102b&title_color=f8fafc&text_color=d8b4fe&icon_color=8b5cf6&ring_color=8b5cf6" alt="Antonia's GitHub statistics" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=antoniaafx&layout=compact&hide_border=true&bg_color=1b102b&title_color=f8fafc&text_color=d8b4fe&icon_color=8b5cf6" alt="Antonia's most used languages" height="165" />
-</div>
-
----
 
 ## 💌 Let's connect
 
