@@ -16,8 +16,6 @@
 
 I'm a **UX/UI Designer** who likes making the space between a good idea and a great experience feel smaller. I lead with research and wireframes, prototype in Figma until an interaction feels right, then bring it closer to real, working code.
 
-|  |  |
-| :--- | :--- |
 | 🔍 **Who I am** | A designer who thinks in flows and screens first — Figma is where my ideas start. |
 | 🎨 **What I design** | Web and app experiences: user research, wireframes, and interactive prototypes for real problems. |
 | 💡 **What I'm curious about** | UX research methods, design systems, and the small interaction details that make a product feel calm. |
@@ -25,26 +23,12 @@ I'm a **UX/UI Designer** who likes making the space between a good idea and a gr
 
 ## 🎨 Skills & Tools
 
-####  Design
-
 <div align="center">
 	<img src="https://img.shields.io/badge/UX%20Design-1b102b?style=for-the-badge&logo=figma&logoColor=f0abfc" alt="UX Design" />
 	<img src="https://img.shields.io/badge/UX%20Research-1b102b?style=for-the-badge&logo=readdotcv&logoColor=f0abfc" alt="UX Research" />
 	<img src="https://img.shields.io/badge/Wireframing-1b102b?style=for-the-badge&logo=sketch&logoColor=f0abfc" alt="Wireframing" />
 	<img src="https://img.shields.io/badge/Prototyping-1b102b?style=for-the-badge&logo=framer&logoColor=f0abfc" alt="Prototyping" />
 	<img src="https://img.shields.io/badge/Figma-1b102b?style=for-the-badge&logo=figma&logoColor=f0abfc" alt="Figma" />
-</div>
-
-####  Development
-
-<div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,js,&perline=8" alt="HTML, CSS, JavaScript" />
-</div>
-
-#### Tools
-
-<div align="center">
-	<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=8" alt="Figma, Git, GitHub, VS Code" />
 </div>
 
 
